@@ -80,17 +80,6 @@ function getWinner(playerMove,computerMove) {
     return winner;
 }
 
-/*
-switch(getWinner(playerMove,computerMove)) {
-    case 'You Win!': 
-        win = 'player';
-        break;
-    case 'You Lose!': 
-        win = 'computer';
-        break;
-    default : win = 'tie';
- }
-*/
 
 function playToFive() {
     //console.log("Let's play Rock, Paper, Scissors");
