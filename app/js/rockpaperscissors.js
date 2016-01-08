@@ -21,6 +21,9 @@ function randomPlay() {
 /*           Write Your Code Below            */
 ////////////////////////////////////////////////
 
+// ************ ATTENTION!! ********************
+// This code has been adjusted to work best in repl.it
+
 // Variables
 var playerMove = '';
 var computerMove = '';
